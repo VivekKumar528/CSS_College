@@ -20,3 +20,9 @@ ul li:first-child{
     color: aquamarine;
     border: 4px solid green;
 }
+
+hr{
+    height: 25px;
+    border: 15px;
+    box-shadow: inset 0px 12px 12px -12px crimson;
+}
