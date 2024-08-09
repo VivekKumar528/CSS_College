@@ -1,0 +1,16 @@
+span{
+    width:150px;
+    height:33px;
+    background-color: cyan;
+    color:black;
+    border-radius: 15px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px;
+    display: block;
+    padding-top: 15px;
+    font-family: monospace;
+    text-transform: uppercase;
+    font-size: 18px;
+
+}

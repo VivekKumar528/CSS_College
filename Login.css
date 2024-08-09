@@ -1,0 +1,42 @@
+.header{
+    height: 30px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 12px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 25px;
+    background-color: greenyellow;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.listElement{
+    border: 1px solid black;
+    width:150px;
+    height:33px;
+    border-radius: 12px;
+    text-align: center;
+    padding-top: 15px;
+    display: inline-block;
+
+}
+/* .searchBox{
+    display: inline-block;
+} */
+
+.spanHolder{
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 12px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 25px;
+    background-color: greenyellow;
+
+}

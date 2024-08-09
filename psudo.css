@@ -1,0 +1,22 @@
+.primary-btn:hover{
+    color:red;
+    background-color: aqua;
+}
+
+h1::first-letter{
+    background-color: blue;
+    font-size: 20pc;
+}
+p:first-letter{
+    background-color: aqua;
+}
+ul li:last-child{
+    background-color: red;
+}
+ul li:first-child{
+    background-color: teal;
+}
+.primary-btn:visited{
+    color: aquamarine;
+    border: 4px solid green;
+}
