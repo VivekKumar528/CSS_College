@@ -26,3 +26,9 @@ hr{
     border: 15px;
     box-shadow: inset 0px 12px 12px -12px crimson;
 }
+ul{
+    list-style-image:url(/Google_Developers_Img_logo.png);
+}
+ul{
+    list-style-position: inside;
+}
