@@ -1,0 +1,48 @@
+.A{
+    width:200px;
+    height:200px;
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+    /* visibility: hidden; */
+}
+.B{
+    width:200px;
+    height:200px;
+    background-color: red;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    /* display: none; */
+}
+.C{
+    width:200px;
+    height:200px;
+    background-color: cyan;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+.D{
+    width:200px;
+    height:200px;
+    background-color: teal;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+.E{
+    width:200px;
+    height:200px;
+    background-color: rgb(238, 255, 0);
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
